@@ -1,0 +1,22 @@
+{
+  "appId": "com.example.itre.tripMaker",
+  "appName": "com.example.itre.tripMaker",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "windowsAndroidStudioPath": "C:\\Program Files\\Android\\Android Studio\\bin\\studio64.exe",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "androidScheme": "http",
+    "allowNavigation": [],
+    "url": "http://152.14.29.249:8100"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
